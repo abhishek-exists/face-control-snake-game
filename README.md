@@ -9,19 +9,5 @@
 
 
 
-![alt text](https://github.com/abhishek276533/face-control-snake-game/blob/master/gameplay.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+![alt text](https://github.com/abhishek276533/face-control-snake-game/blob/main/gameplay.png)
 
